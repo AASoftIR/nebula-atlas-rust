@@ -1,0 +1,54 @@
+# Rust build artifacts
+/target
+
+# Cargo backup files
+**/*.rs.bk
+
+# Generated atlas reports
+atlas.html
+*-atlas.html
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Environment files
+.env
+.env.local
+
+# Coverage
+coverage/
+*.profraw
+*.profdata
+
+# Rust analyzer
+.rust-analyzer/
+
+# Cargo local config
+.cargo/
+
+# Release archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Generated screenshots/images
+screenshots/
