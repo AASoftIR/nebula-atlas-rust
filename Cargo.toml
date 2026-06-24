@@ -1,7 +1,7 @@
 [package]
 name = "nebula-code-atlas"
 version = "0.1.0"
-edition = "2026"
+edition = "2021"
 license = "UNLICENSED"
 repository = "https://github.com/aasoftir/nebula-atlas-rust.git"
 authors = ["Alireza Mohebbi"]
